@@ -3,6 +3,7 @@ import React from "react";
 function Plan() {
   return (
     <div className="max-w-[1400px] m-auto py-16 px-4 grid lg:grid-cols-2 gap-4">
+      {/*test new branch*/}
       <div className="grid grid-cols-2 grid-rows-6 h-[80vh]">
         <img
           className="row-span-3 object-cover w-full h-full p-2"
