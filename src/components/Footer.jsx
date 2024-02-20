@@ -1,6 +1,15 @@
 import { FaFacebook, FaInstagram, FaTwitter } from "react-icons/fa";
 import { TiSocialPinterest } from "react-icons/ti";
 
+// test commit
+// test commit
+// test commit
+// test commit
+// test commit
+// test commit
+// test commit
+// test commit
+// test commit
 function Footer() {
   return (
     <div className="w-full mt-24 bg-gray-900 text-gray-300 py-2 px-2">
@@ -74,3 +83,12 @@ function Footer() {
 }
 
 export default Footer;
+// test commit
+// test commit
+// test commit
+// test commit
+// test commit
+// test commit
+// test commit
+// test commit
+// test commit
